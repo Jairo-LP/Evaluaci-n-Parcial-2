@@ -3,6 +3,9 @@
     
 public class main {
     public static void main(String[] args) {
+        
+        System.out.println("Fusion exitosa equipo a + b +c, liderado por equipo b" );
+
 
 
 
